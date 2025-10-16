@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AudioUtilities.cpp.obj": [
+			"AKComponentForGame.gen.cpp.obj",
+			"AudioUtilities.init.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"AKComponentForGame.cpp.obj",
+			"AudioUtilities.cpp.obj"
+		]
+	}
+}
